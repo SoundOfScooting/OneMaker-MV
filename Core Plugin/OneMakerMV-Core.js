@@ -14,10 +14,10 @@
  * Adds core changes necessary for features that OneMaker MV adds.
  * ==============================================================================================================
  * 
- * List of current additional feature:
+ * List of current additional features:
  * - SelfVariable class necessary for using Self Variables.
- * - Modifies event page meetsConditions to allow Script Page Condition.
- * - Modifies troop Page meetsConditions for additional Conditions.
+ * - Modifies event page meetsConditions to allow Self Variables and  Script Page Condition.
+ * - Modifies troop Page meetsConditions for additional conditions.
  * - Increases the maximun parameters for enemies.
  * - Adds Game_Interpreter command 1002, Sound Manager.
  * - Adds Game_Interpreter commands 358 and 658, Switch Statement and Case.
